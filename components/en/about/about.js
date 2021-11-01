@@ -9,7 +9,7 @@ export default function Nav() {
     <div className="col-4">
       <h2>About us</h2>
       <p>
-          Kumi is bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
+          Kumi is Mosquito care company.Who create the rice butter balm.And create Mossy spray and mosquito sticker 
       </p>
     </div>
     <div className="col-4">

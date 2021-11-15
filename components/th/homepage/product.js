@@ -7,14 +7,14 @@ export default function Product() {
   return (
     <div className="container" id="product">
         <br /><br />
-<div className="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3 center">
+        <div className="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3 center">
         <div className="col">
           <div>
             <Image src="/product/rice/kumirice1.jpeg" alt="product" width={350} height={225}/>
           </div>
           <div className="center">
-            <h3>คุมิไรซ์</h3>
-            <p>150 บาท</p> 
+            <h3>Kumi rice butter balm</h3>
+            <p>220 baht</p> 
           </div>
         </div>
         <div className="col">
@@ -22,8 +22,8 @@ export default function Product() {
             <Image src="/product/spray/kumispray1.jpeg" alt="product" width={330} height={225}/>
           </div>
           <div className="center">
-            <h3>คุมิไรซ์</h3>
-            <p>150 บาท</p> 
+            <h3>Kumi Mossy Spray</h3>
+            <p>220 baht</p> 
           </div>
         </div>
         <div className="col">
@@ -31,8 +31,8 @@ export default function Product() {
             <Image src="/product/sticker/Kumisticker1.jpeg" alt="product" width={350} height={225}/>
           </div>
           <div className="center">
-            <h3>คุมิไรซ์</h3>
-            <p>150 บาท</p> 
+            <h3>Kumi Sticker</h3>
+            <p>220 baht</p> 
           </div>
         </div>
         </div>

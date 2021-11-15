@@ -23,9 +23,9 @@ export default function Reviwe() {
             </svg>
             </div>
             <br />
-            <p>คุมิดีมาก</p>
+            <p></p>
             <br />
-            <h4>แดนนี่</h4>
+            <h4></h4>
           </div>
           <div>
           <div>
@@ -37,9 +37,9 @@ export default function Reviwe() {
             </svg>
             </div>
             <br />
-            <p>คุมิดีมาก</p>
+            <p></p>
             <br />
-            <h4>แดนนี่</h4>
+            <h4></h4>
           </div>
           <div>
           <div>
@@ -51,9 +51,9 @@ export default function Reviwe() {
             </svg>
             </div>
             <br />
-            <p>คุมิดีมาก</p>
+            <p></p>
             <br />
-            <h4>แดนนี่</h4>
+            <h4></h4>
           </div>
         </div>
     </div>

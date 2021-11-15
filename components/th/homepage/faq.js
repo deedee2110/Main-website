@@ -13,28 +13,9 @@ export default function Faq() {
       <div className="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
             <div>
                 <h2>อะไรคือคุมิ?</h2>
-                <p>คุมิคือ bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla</p>
+                <p>คุมิคือธุรกิจืี่เกี่ยวกับยุง</p>
             </div>
-            <div>
-                <h2>อะไรคือคุมิ?</h2>
-                <p>คุมิคือ bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla</p>
-            </div>
-            <div>
-                <h2>อะไรคือคุมิ?</h2>
-                <p>คุมิคือ bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla</p>
-            </div>
-            <div>
-                <h2>อะไรคือคุมิ?</h2>
-                <p>คุมิคือ bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla</p>
-            </div>
-            <div>
-                <h2>อะไรคือคุมิ?</h2>
-                <p>คุมิคือ bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla</p>
-            </div>
-            <div>
-                <h2>อะไรคือคุมิ?</h2>
-                <p>คุมิคือ bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla</p>
-            </div>
+           
       </div>
       <br /><br />
   </div>

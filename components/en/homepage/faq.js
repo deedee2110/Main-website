@@ -13,27 +13,7 @@ export default function Faq() {
       <div className="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
             <div>
                 <h2>What is kumi?</h2>
-                <p>Kumi is bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla</p>
-            </div>
-            <div>
-                <h2>What is kumi?</h2>
-                <p>Kumi is bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla</p>
-            </div>
-            <div>
-                <h2>What is kumi?</h2>
-                <p>Kumi is bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla</p>
-            </div>
-            <div>
-                <h2>What is kumi?</h2>
-                <p>Kumi is bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla</p>
-            </div>
-            <div>
-                <h2>What is kumi?</h2>
-                <p>Kumi is bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla</p>
-            </div>
-            <div>
-                <h2>What is kumi?</h2>
-                <p>Kumi is bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla</p>
+                <p>Kumi is mosquito care company</p>
             </div>
       </div>
       <br /><br />

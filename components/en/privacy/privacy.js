@@ -1,5 +1,7 @@
 import Link from 'next/link';
 
+//Updated by Bhira Piromsopa 15/11/2021 13.00 //
+
 export default function Privacy (){
     return(
         <div className="container">

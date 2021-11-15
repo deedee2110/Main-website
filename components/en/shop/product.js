@@ -1,5 +1,7 @@
 import Image from 'next/image';
 
+//Updated by Bhira Piromsopa 15/11/2021 13.00 //
+
 export default function Product(){
     return(
 <section>
